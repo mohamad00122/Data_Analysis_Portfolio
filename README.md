@@ -4,23 +4,26 @@ Welcome to my Data Analysis Portfolio! This repository is a curated collection o
 
 ## Projects Overview
 
-### California 1990s Homes Analysis
+### [California 1990s Homes Analysis](/California_1990s_homes_analysis)
 A detailed exploration of the housing market in California during the 1990s, focusing on the relationships between income levels, the age of housing, and housing prices.
 
-### E-Commerce Traffic Analysis
+### [E-Commerce Traffic Analysis](/E-Commerce_Project)
 An in-depth study of a Shopify store's traffic to understand customer engagement and behavior, aimed at optimizing marketing strategies and increasing conversions.
 
-### Global Food Price Inflation Analysis
+### [Global Food Price Inflation Analysis](/Global%20Food%20Price%20Inflation%20Analysis)
 This analysis investigates the global trends in food prices and inflation, providing insights that could inform economic policy and food security strategies.
 
-### Salary Analysis
+### [Salary Analysis](/Salary_Analysis)
 A comprehensive study of salary data across different industries and regions, examining the influence of education, experience, gender, race, and geography on earnings.
 
-### Spotify Songs Analysis
+### [Spotify Songs Analysis](/Spotify_Analysis)
 An exploration of a dataset of 30,000 songs from Spotify to understand the distribution of songs across genres, the evolution of music over time, and the audio features of tracks.
 
-### Airbnb NYC Analysis
+### [Airbnb NYC Analysis](/Abnb_NYC_Project)
 A comprehensive analysis of over 20,000 Airbnb listings in New York City, providing insights into room prices, reviews, availability, and host information. Understand the market through data cleaning, exploratory analysis, and geographical distribution of listings.
+
+### [Flight Delay Data Analysis](/Flight_Delay_Project)
+A thorough analysis of U.S. flight delay data from August 2013 to August 2023, aimed at uncovering trends and identifying the root causes of delays. This project includes detailed evaluations of delays, cancellations, and diversions across various carriers and airports, with the goal of offering strategic recommendations to enhance the aviation industry's efficiency and customer satisfaction.
 
 ## Skills Demonstrated
 
