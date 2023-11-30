@@ -22,6 +22,9 @@ An exploration of a dataset of 30,000 songs from Spotify to understand the distr
 ### Airbnb NYC Analysis
 A comprehensive analysis of over 20,000 Airbnb listings in New York City, providing insights into room prices, reviews, availability, and host information. Understand the market through data cleaning, exploratory analysis, and geographical distribution of listings.
 
+### Flight Delay Data Analysis
+A thorough analysis of U.S. flight delay data from August 2013 to August 2023, aimed at uncovering trends and identifying the root causes of delays. This project includes detailed evaluations of delays, cancellations, and diversions across various carriers and airports, with the goal of offering strategic recommendations to enhance the aviation industry's efficiency and customer satisfaction.
+
 ## Skills Demonstrated
 
 - Data Cleaning and Preprocessing
