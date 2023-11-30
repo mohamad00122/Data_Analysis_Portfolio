@@ -19,6 +19,9 @@ A comprehensive study of salary data across different industries and regions, ex
 ### Spotify Songs Analysis
 An exploration of a dataset of 30,000 songs from Spotify to understand the distribution of songs across genres, the evolution of music over time, and the audio features of tracks.
 
+### Airbnb NYC Analysis
+A comprehensive analysis of over 20,000 Airbnb listings in New York City, providing insights into room prices, reviews, availability, and host information. Understand the market through data cleaning, exploratory analysis, and geographical distribution of listings.
+
 ## Skills Demonstrated
 
 - Data Cleaning and Preprocessing
