@@ -25,6 +25,12 @@ A comprehensive analysis of over 20,000 Airbnb listings in New York City, provid
 ### [Flight Delay Data Analysis](/Flight_Delay_Project)
 A thorough analysis of U.S. flight delay data from August 2013 to August 2023, aimed at uncovering trends and identifying the root causes of delays. This project includes detailed evaluations of delays, cancellations, and diversions across various carriers and airports, with the goal of offering strategic recommendations to enhance the aviation industry's efficiency and customer satisfaction.
 
+### [Weather Prediction and Picnic Suitability Analysis](/Weather_Prediction_Analysis)
+Analyzing a comprehensive weather dataset to predict conditions and assess their suitability for picnics in various European cities from 2000 to 2010. This project leverages historical weather data to understand and predict outdoor activity suitability with a focus on picnic conditions.
+
+### [LinkedIn Job Postings Analysis](/LinkedIn_Job_Postings_Analysis)
+Analyzing a dataset of LinkedIn job postings to understand job market trends, including company hiring frequencies and popular job roles. This project involves data cleaning, exploratory data analysis, predictive modeling, and data visualization, providing insights into salary distributions and job requirements.
+
 ## Skills Demonstrated
 
 - Data Cleaning and Preprocessing
