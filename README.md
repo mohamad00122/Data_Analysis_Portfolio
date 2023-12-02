@@ -28,6 +28,9 @@ A thorough analysis of U.S. flight delay data from August 2013 to August 2023, a
 ### [Weather Prediction and Picnic Suitability Analysis](/Weather_Prediction_Analysis)
 Analyzing a comprehensive weather dataset to predict conditions and assess their suitability for picnics in various European cities from 2000 to 2010. This project leverages historical weather data to understand and predict outdoor activity suitability with a focus on picnic conditions.
 
+### [LinkedIn Job Postings Analysis](/LinkedIn_Job_Postings_Analysis)
+Analyzing a dataset of LinkedIn job postings to understand job market trends, including company hiring frequencies and popular job roles. This project involves data cleaning, exploratory data analysis, predictive modeling, and data visualization, providing insights into salary distributions and job requirements.
+
 ## Skills Demonstrated
 
 - Data Cleaning and Preprocessing
