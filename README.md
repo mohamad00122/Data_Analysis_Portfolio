@@ -34,6 +34,9 @@ Analyzing a dataset of LinkedIn job postings to understand job market trends, in
 ### [Ancient Gladiators Analysis](/Gladiator_Combat_Records_Profiles_Analysis)
 Delving into a synthetic dataset of ancient gladiators, this project utilizes historical data and modern data analysis techniques to offer insights into the lives, combat effectiveness, and legacies of these legendary figures.
 
+### [E-Commerce Summer Sales Analysis](/Summer_E-Commerce_Analysis)
+A deep dive into the "Summer Products Sales Performance" data, revealing key insights and actionable strategies for e-commerce stores to maximize sales in the summer season. This analysis covers product categories, pricing strategies, the impact of product ratings, and merchant performance.
+
 ## Skills Demonstrated
 
 - Data Cleaning and Preprocessing
