@@ -31,6 +31,9 @@ Analyzing a comprehensive weather dataset to predict conditions and assess their
 ### [LinkedIn Job Postings Analysis](/LinkedIn_Job_Postings_Analysis)
 Analyzing a dataset of LinkedIn job postings to understand job market trends, including company hiring frequencies and popular job roles. This project involves data cleaning, exploratory data analysis, predictive modeling, and data visualization, providing insights into salary distributions and job requirements.
 
+### [Ancient Gladiators Analysis](/Ancient_Gladiators_Analysis)
+Delving into a synthetic dataset of ancient gladiators, this project utilizes historical data and modern data analysis techniques to offer insights into the lives, combat effectiveness, and legacies of these legendary figures.
+
 ## Skills Demonstrated
 
 - Data Cleaning and Preprocessing
@@ -40,6 +43,7 @@ Analyzing a dataset of LinkedIn job postings to understand job market trends, in
 - Regression Modeling
 - Time Series Analysis
 - Exploratory Data Analysis
+- Predictive Modeling with Machine Learning
 
 ## Technologies & Tools Used
 
