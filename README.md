@@ -37,6 +37,9 @@ Delving into a synthetic dataset of ancient gladiators, this project utilizes hi
 ### [E-Commerce Summer Sales Analysis](/Summer_E-Commerce_Analysis)
 A deep dive into the "Summer Products Sales Performance" data, revealing key insights and actionable strategies for e-commerce stores to maximize sales in the summer season. This analysis covers product categories, pricing strategies, the impact of product ratings, and merchant performance.
 
+### [Analysis of Construction Investment Trends in Japan (1960-2022)](/Construction-Investment-Japan)
+An in-depth analysis of the construction investment trends in Japan over a 60-year period, exploring various dimensions such as government vs. private sector investments and sector-specific trends in the construction industry. This analysis aims to provide a comprehensive understanding of the sector's dynamics in Japan's economic development.
+
 ## Skills Demonstrated
 
 - Data Cleaning and Preprocessing
