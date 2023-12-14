@@ -43,6 +43,9 @@ An in-depth analysis of the construction investment trends in Japan over a 60-ye
 ### [World Export & Import Dataset Analysis (1989 - 2023)](/World_Imports_Exports_Analysis)
 A comprehensive analysis of the "World Export & Import Dataset" covering global trade dynamics from 1989 to 2023. This report includes exploratory data analysis, trend analysis, comparative studies, and in-depth analysis of trade balances and tariff impacts, particularly focusing on the trade dynamics between the US and China.
 
+### [Early Stage Diabetes Risk Prediction](/early_stage_diabetes_risk_prediction_Analysis)
+This project analyzes a dataset for early-stage diabetes risk prediction, identifying key factors associated with the onset of diabetes and developing a predictive model. It involves comprehensive data processing, exploratory data analysis, and the use of a Random Forest Classifier to achieve high accuracy in predicting diabetes risk.
+
 ## Skills Demonstrated
 
 - Data Cleaning and Preprocessing
