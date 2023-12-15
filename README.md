@@ -46,6 +46,9 @@ A comprehensive analysis of the "World Export & Import Dataset" covering global 
 ### [Early Stage Diabetes Risk Prediction](/early_stage_diabetes_risk_prediction_Analysis)
 This project analyzes a dataset for early-stage diabetes risk prediction, identifying key factors associated with the onset of diabetes and developing a predictive model. It involves comprehensive data processing, exploratory data analysis, and the use of a Random Forest Classifier to achieve high accuracy in predicting diabetes risk.
 
+### [Economic Freedom Trend Analysis](/Economic-Freedom-Trend-Analysis) (New)
+Comprehensive analysis of economic freedom trends globally from 1950 to 2021. This project assesses global, regional, and country-specific trends, and explores areas contributing to economic freedom, using statistical and data visualization techniques.
+
 ## Skills Demonstrated
 
 - Data Cleaning and Preprocessing
