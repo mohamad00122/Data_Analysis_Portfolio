@@ -49,8 +49,11 @@ This project analyzes a dataset for early-stage diabetes risk prediction, identi
 ### [Economic Freedom Trend Analysis](/Economic_Freedom_Trend_Analysis)
 Comprehensive analysis of economic freedom trends globally from 1950 to 2021. This project assesses global, regional, and country-specific trends, and explores areas contributing to economic freedom, using statistical and data visualization techniques.
 
-### [Social Media Preferences Among Millennials](/Social-Media-Preferences-Millennials)
+### [Social Media Preferences Among Millennials](/Social_Media_Preferences_Among_Millenials_Analysis)
 This project analyzes the preferences of US millennials regarding various social media platforms. It utilizes a survey dataset to understand millennial preferences and informs effective business and marketing strategies, offering insights valuable for businesses, marketers, and researchers.
+
+### [Strategic Insights into the World of Chess](/Strategic-Insights-World-Chess)
+This project explores the competitive world of chess through a comprehensive data analysis of top global chess players. It involves rating focus analysis, comparative analysis of top players, country-wise distribution analysis, and trends among elite chess players using Python, Pandas, Matplotlib, and Seaborn.
 
 ## Skills Demonstrated
 
