@@ -52,6 +52,9 @@ Comprehensive analysis of economic freedom trends globally from 1950 to 2021. Th
 ### [Social Media Preferences Among Millennials](/Social_Media_Preferences_Among_Millenials_Analysis)
 This project analyzes the preferences of US millennials regarding various social media platforms. It utilizes a survey dataset to understand millennial preferences and informs effective business and marketing strategies, offering insights valuable for businesses, marketers, and researchers.
 
+### [Strategic Insights into the World of Chess](/Strategic-Insights-World-Chess)
+This project explores the competitive world of chess through a comprehensive data analysis of top global chess players. It involves rating focus analysis, comparative analysis of top players, country-wise distribution analysis, and trends among elite chess players using Python, Pandas, Matplotlib, and Seaborn.
+
 ## Skills Demonstrated
 
 - Data Cleaning and Preprocessing
