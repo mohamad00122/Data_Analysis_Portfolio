@@ -49,6 +49,9 @@ This project analyzes a dataset for early-stage diabetes risk prediction, identi
 ### [Economic Freedom Trend Analysis](/Economic_Freedom_Trend_Analysis)
 Comprehensive analysis of economic freedom trends globally from 1950 to 2021. This project assesses global, regional, and country-specific trends, and explores areas contributing to economic freedom, using statistical and data visualization techniques.
 
+### [Social Media Preferences Among Millennials](/Social-Media-Preferences-Millennials)
+This project analyzes the preferences of US millennials regarding various social media platforms. It utilizes a survey dataset to understand millennial preferences and informs effective business and marketing strategies, offering insights valuable for businesses, marketers, and researchers.
+
 ## Skills Demonstrated
 
 - Data Cleaning and Preprocessing
