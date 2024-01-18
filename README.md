@@ -59,7 +59,7 @@ This project explores the competitive world of chess through a comprehensive dat
 Comprehensive analysis of billionaire wealth distribution globally, examining correlations with population metrics​
 
 ### Software Engineering Projects
-- [**Basic Snake Game**] (/Snake_Game)
+- - [Basic Snake Game](URL_of_the_game)
 A classic snake game developed using [Python]. The project demonstrates my skills in software development, focusing on creating engaging and interactive user experiences.
 
 
