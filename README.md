@@ -55,6 +55,13 @@ This project analyzes the preferences of US millennials regarding various social
 ### [Strategic Insights into the World of Chess](/Top_Global_Chess_Players_Analysis)
 This project explores the competitive world of chess through a comprehensive data analysis of top global chess players. It involves rating focus analysis, comparative analysis of top players, country-wise distribution analysis, and trends among elite chess players using Python, Pandas, Matplotlib, and Seaborn.
 
+### [Billionaires Data Analysis (2024)](/Top_Global_Chess_Players_Analysis)
+Comprehensive analysis of billionaire wealth distribution globally, examining correlations with population metrics​
+
+### Software Engineering Projects
+- **Basic Snake Game**: A classic snake game developed using [Python]. The project demonstrates my skills in software development, focusing on creating engaging and interactive user experiences.
+
+
 ## Skills Demonstrated
 
 - Data Cleaning and Preprocessing
