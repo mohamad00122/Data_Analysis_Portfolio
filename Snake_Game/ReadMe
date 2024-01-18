@@ -7,14 +7,17 @@ This repository contains various projects showcasing my data analysis skills, in
 - Pygame (Install via pip: `pip install pygame`)
 
 ### How to Play
-1. Clone the repository:
+1. **Clone the repository**:
 git clone https://github.com/mohamad00122/Data_Analysis_Portfolio.git
 
-2. Navigate to the Snake game directory:
+
+2. **Navigate to the Snake game directory**:
 cd Data_Analysis_Portfolio/Snake_Game
 
-3. Run the game:
+
+3. **Run the game**:
 python snake_game.py
+
 
 ### Game Controls
 - Use the arrow keys to move the snake.
