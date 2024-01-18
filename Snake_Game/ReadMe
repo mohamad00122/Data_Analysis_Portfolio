@@ -1,0 +1,23 @@
+This repository contains various projects showcasing my data analysis skills, including a Python-based Snake game.
+
+## Snake Game
+
+### Prerequisites
+- Python (Download here: [Python](https://www.python.org/downloads/))
+- Pygame (Install via pip: `pip install pygame`)
+
+### How to Play
+1. Clone the repository:
+git clone https://github.com/mohamad00122/Data_Analysis_Portfolio.git
+
+2. Navigate to the Snake game directory:
+cd Data_Analysis_Portfolio/Snake_Game
+
+3. Run the game:
+python snake_game.py
+
+### Game Controls
+- Use the arrow keys to move the snake.
+- Press the spacebar to pause the game.
+
+Enjoy the game and try to beat the high score!
