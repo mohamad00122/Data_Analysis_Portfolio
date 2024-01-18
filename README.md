@@ -2,7 +2,7 @@
 
 Welcome to my Data Analysis Portfolio! This repository is a curated collection of my data analysis projects, showcasing my ability to derive meaningful insights from varied datasets. Each project within this portfolio demonstrates my analytical skills and my proficiency in using data to inform decisions, understand trends, and solve problems.
 
-## Projects Overview
+## Data Analysis Projects
 
 ### [California 1990s Homes Analysis](/California_1990s_homes_analysis)
 A detailed exploration of the housing market in California during the 1990s, focusing on the relationships between income levels, the age of housing, and housing prices.
@@ -58,9 +58,10 @@ This project explores the competitive world of chess through a comprehensive dat
 ### [Billionaires Data Analysis (2024)](/Billionares_Data_by_Country_2024_Analysis)
 Comprehensive analysis of billionaire wealth distribution globally, examining correlations with population metrics​
 
-### Software Engineering Projects
-- - [Basic Snake Game](Snake_Game)
-A classic snake game developed using [Python]. The project demonstrates my skills in software development, focusing on creating engaging and interactive user experiences.
+## Software Engineering Projects
+
+### [Basic Snake Game](/Snake_Game)
+A classic snake game developed using Python. The project demonstrates my skills in software development...
 
 
 ## Skills Demonstrated
