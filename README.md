@@ -61,8 +61,10 @@ Comprehensive analysis of billionaire wealth distribution globally, examining co
 ## Software Engineering Projects
 
 ### [Basic Snake Game](/Snake_Game)
-A classic snake game developed using Python. The project demonstrates my skills in software development...
+A classic snake game developed using Python. The project demonstrates my skills in software development.
 
+### [Pong Game](/Pong_Game) ###
+  A Python-based Pong game with interactive modes, developed using Pygame. Features Player vs. Computer and Player vs. Player modes, along with an interactive main menu and score tracking.
 
 ## Skills Demonstrated
 
