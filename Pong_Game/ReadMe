@@ -1,0 +1,39 @@
+# Pong Game
+
+This is a classic Pong game implemented in Python using Pygame. It features both Player vs. Computer and Player vs. Player modes, along with an interactive main menu and pause functionality.
+
+## Features
+- Player vs. Computer (PvC) and Player vs. Player (PvP) modes.
+- Interactive main menu to select game mode.
+- Pause menu with resume and quit options.
+- Classic Pong gameplay with score tracking.
+
+## How to Play
+- **PvC Mode**: Use the up and down arrow keys to control your paddle against the computer.
+- **PvP Mode**: One player uses 'W' and 'S' to move their paddle up and down, while the other player uses the up and down arrow keys.
+- Press 'Space' to pause the game during play. In the pause menu, you can choose to resume or quit the game.
+
+## Requirements
+- Python
+- Pygame
+
+## Installation and Running the Game
+1. Ensure you have Python installed on your computer. You can download it from [python.org](https://www.python.org/downloads/).
+2. Install Pygame, which can be done via pip:
+pip install pygame
+
+3. Clone this repository or download the game files.
+4. Navigate to the game's directory and run the game using Python:
+python pong_game.py
+
+
+Enjoy playing the game, and try to beat the high score!
+
+## Contributions
+Contributions to this project are welcome. Feel free to fork the repository and submit pull requests.
+
+## License
+This project is open-source and available under the [MIT License](LICENSE).
+
+## Contact
+For any additional questions or comments, please contact me at [Your Email or GitHub Profile].
