@@ -64,7 +64,10 @@ Comprehensive analysis of billionaire wealth distribution globally, examining co
 A classic snake game developed using Python. The project demonstrates my skills in software development.
 
 ### [Pong Game](/Pong_Game) ###
-  A Python-based Pong game with interactive modes, developed using Pygame. Features Player vs. Computer and Player vs. Player modes, along with an interactive main menu and score tracking.
+A Python-based Pong game with interactive modes, developed using Pygame. Features Player vs. Computer and Player vs. Player modes, along with an interactive main menu and score tracking.
+
+### [Weather Application] ###
+A new addition to my portfolio, this project is a weather application developed using web technologies. It features a user-friendly interface to display weather information based on user input.
 
 ## Skills Demonstrated
 
@@ -76,6 +79,8 @@ A classic snake game developed using Python. The project demonstrates my skills 
 - Time Series Analysis
 - Exploratory Data Analysis
 - Predictive Modeling with Machine Learning
+- Software Development
+- Web Development
 
 ## Technologies & Tools Used
 
@@ -84,6 +89,8 @@ A classic snake game developed using Python. The project demonstrates my skills 
 - Jupyter Notebooks
 - SQL (for data querying)
 - Tableau or Power BI (for dashboard creation)
+- HTML, CSS, JavaScript (for web development)
+
 
 ## How to Navigate This Repository
 
