@@ -66,7 +66,7 @@ A classic snake game developed using Python. The project demonstrates my skills 
 ### [Pong Game](/Pong_Game) ###
 A Python-based Pong game with interactive modes, developed using Pygame. Features Player vs. Computer and Player vs. Player modes, along with an interactive main menu and score tracking.
 
-### [Weather Application] ###
+### [Weather Application](/Weather_Application) ###
 A new addition to my portfolio, this project is a weather application developed using web technologies. It features a user-friendly interface to display weather information based on user input.
 
 ## Skills Demonstrated
