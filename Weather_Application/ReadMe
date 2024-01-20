@@ -1,0 +1,49 @@
+# Weather Application
+
+## Description
+This Weather Application provides real-time weather information, including temperature (in Fahrenheit), humidity, wind speed, and a visual representation of the current weather condition. The application allows users to search for weather details by city name.
+
+## How to Use
+1. **Open the Application:**
+   - Simply open `index.html` in any modern web browser to start the application.
+
+2. **Search for a City:**
+   - Enter the name of the city for which you want to check the weather in the search box.
+   - Click the "Search" button to display the weather information for the entered city.
+
+## Features
+- Current weather data: temperature, humidity, wind speed.
+- Weather condition visualization with icons.
+- Search functionality by city name.
+- Display of city name and country code.
+
+## Setup and Installation
+1. **Clone the Repository:**
+   - Clone this repository to your local machine or download the files.
+
+2. **Obtain an API Key:**
+   - Visit [OpenWeatherMap](https://openweathermap.org/api) and sign up for an API key.
+   - Note: It might take a few hours for the new API key to become active.
+
+3. **Add the API Key:**
+   - Open `script.js` and replace the placeholder in `const apiKey = 'YOUR_API_KEY';` with your actual OpenWeatherMap API key.
+
+4. **Run the Application:**
+   - Open `index.html` in a web browser to run the application.
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- OpenWeatherMap API
+
+## Contributing
+Contributions, issues, and feature requests are welcome. Feel free to check issues page if you want to contribute.
+
+## Author
+Mohamad Chokr
+Mohamad00122@gmail.com
+(714)309-7043
+
+## License
+This project is [MIT licensed](https://opensource.org/licenses/MIT).
